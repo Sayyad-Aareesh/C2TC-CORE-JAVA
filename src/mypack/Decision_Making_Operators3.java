@@ -4,7 +4,8 @@ public class Decision_Making_Operators3 {
 
 	public static void main(String[] args)
 	{
-		int x = 11; int y = 11;
+		int x = 11;
+		int y = 11;
 		
 		//int ageOfBoy = 36;
 		//int ageOfGirl = 25;
@@ -24,7 +25,7 @@ public class Decision_Making_Operators3 {
 		  { 
 			  System.out.println("Condition is FALSE"); 
 		  }
-		  
+//		  
 		  /*
 		  System.out.println();
 		  
